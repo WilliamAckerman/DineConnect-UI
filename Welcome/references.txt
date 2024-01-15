@@ -1,0 +1,16 @@
+https://www.w3schools.com/html/html_css.asp. 
+https://www.youtube.com/watch?v=5deeCvboSos. 
+https://developer.mozilla.org/en-US/docs/Web/CSS/background-image
+https://www.w3schools.com/html/html_images_background.asp. 
+Alignment: https://www.w3schools.com/css/css_align.asp.  
+Box model: https://www.w3schools.com/css/css_boxmodel.asp. 
+Checkboxes: https://www.w3schools.com/tags/att_input_type_checkbox.asp. 
+CSS border-radius Property: https://www.w3schools.com/cssref/css3_pr_border-radius.php. 
+CSS Links: https://www.w3schools.com/css/css_link.asp.
+CSS Styling Tables: https://www.w3schools.com/css/css_table.asp.
+Country Codes: https://countrycode.org/.
+Fonts: https://www.w3schools.com/css/css_font.asp. 
+Images: https://www.w3schools.com/css/css3_images.asp.
+Multiple Backgrounds: https://www.w3schools.com/css/css3_backgrounds.asp.
+Select: https://www.w3schools.com/tags/tag_select.asp.
+
