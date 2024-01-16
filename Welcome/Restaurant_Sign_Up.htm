@@ -2,25 +2,26 @@
 <html>
 <head>
     <title>DineConnect</title>
+    <script defer src="restaurant_validation.js"></script>"
 </head>
 <body>
     <div class = 'div1'>
         <link rel="stylesheet" href="style.css">
         <h1>Restaurant Sign Up</h1>
-        <form method="post" action="Restaurant_Menu.htm">
+        <form action="restaurant_menu.htm" method="GET">
             <label for="bname">Business name:</label><br>
-            <input type="text" id="bname" name="bname"><br><br>
+            <input type="text" id="bname" name="bname" required><br><br>
             <label for="address">Address:</label><br>
-            <input type="text" id="address" name="address"><br><br>
+            <input type="text" id="address" name="address" required><br><br>
             <label for="email">Email:</label><br>
-            <input type="text" id="email" name="email"><br><br>
+            <input type="text" id="email" name="email" required><br><br>
             <label for="bphone">Business Phone:</label><br>
-            <input type="text" id="bphone" name="bphone"><br><br>
+            <input type="text" id="bphone" name="bphone" required><br><br>
             <label for="btype">Business Type:</label><br>
-            <input type="text" id="btype" name="btype"><br><br>
+            <input type="text" id="btype" name="btype" required><br><br>
             <label for="password">Password:</label><br>
-            <input type="password" id="password" name="password"><br><br>
-            <input type="submit" value="Get Started">
+            <input type="password" id="password" name="password" required><br><br>
+            <button type="submit">Get Started</button>
         </form><br>
         <a href="index.htm">Return</a>
     </div>

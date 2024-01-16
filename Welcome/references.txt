@@ -11,6 +11,10 @@ CSS Styling Tables: https://www.w3schools.com/css/css_table.asp.
 Country Codes: https://countrycode.org/.
 Fonts: https://www.w3schools.com/css/css_font.asp. 
 Images: https://www.w3schools.com/css/css3_images.asp.
+JavaScript Classes: https://www.w3schools.com/js/js_classes.asp. 
 Multiple Backgrounds: https://www.w3schools.com/css/css3_backgrounds.asp.
+Objects: https://www.w3schools.com/js/js_objects.asp. 
 Select: https://www.w3schools.com/tags/tag_select.asp.
+Validation: https://www.w3schools.com/js/js_validation.asp. 
+https://www.youtube.com/watch?v=In0nB0ABaUk. 
 
