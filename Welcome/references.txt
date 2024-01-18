@@ -15,6 +15,7 @@ JavaScript Classes: https://www.w3schools.com/js/js_classes.asp.
 Multiple Backgrounds: https://www.w3schools.com/css/css3_backgrounds.asp.
 Objects: https://www.w3schools.com/js/js_objects.asp. 
 Select: https://www.w3schools.com/tags/tag_select.asp.
+Tables: https://www.w3schools.com/html/html_tables.asp. 
 Validation: https://www.w3schools.com/js/js_validation.asp. 
 https://www.youtube.com/watch?v=In0nB0ABaUk. 
 
