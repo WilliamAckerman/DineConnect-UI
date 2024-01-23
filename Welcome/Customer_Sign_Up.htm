@@ -1,41 +1,43 @@
 <!DOCTYPE html>
 <html>
-<head>
+  <head>
     <title>DineConnect</title>
-</head>
-<body>
-    <div class = 'div1'>
-        <link rel="stylesheet" href="style.css">
-        <h1>Customer Sign Up</h1>
-        <form method="post" action="Customer_Menu.htm">
-            <label for="fname">First Name:</label><br>
-            <input type="text" id="fname" name="fname"><br><br>
-            <label for="lname">Last Name:</label><br>
-            <input type="text" id="lname" name="lname"><br><br>
-            <label for="email">Email:</label><br>
-            <input type="text" id="email" name="email"><br><br>
-            <label for="country">Country:</label>
-            <select name="country" id="country">
-                <option value="61">Australia (+61)</option>
-                <option value="57">Colombia (+57)</option>
-                <option value="53">Cuba (+53)</option>
-                <option value="45">Denmark (+45)</option>
-                <option value="33">France (+33)</option>
-                <option value="49">Germany (+49)</option>
-                <option value="39">Italy (+39)</option>
-                <option value="81">Japan (+81)</option>
-                <option value="52">Mexico (+52)</option>
-                <option value="64">New Zealand (+64)</option>
-                <option value="44">United Kingdom (+44)</option>
-                <option value="1US">United States (+1)</option>
-            </select><br><br>
-            <label for="mob_num">Mobile Number:</label><br>
-            <input type="text" id="mob_num" name="mob_num"><br><br>
-            <label for="password">Password:</label><br>
-            <input type="password" id="password" name="password"><br><br>
-            <input type="submit" value="Sign Up">
-        </form><br>
-        <a href="index.htm">Return</a>
+  </head>
+  <body>
+    <div class="div1">
+      <link rel="stylesheet" href="style.css" />
+      <h1>Customer Sign Up</h1>
+      <form method="post" action="Customer_Menu.htm">
+        <label for="fname">First Name:</label><br />
+        <input type="text" id="fname" name="fname" /><br /><br />
+        <label for="lname">Last Name:</label><br />
+        <input type="text" id="lname" name="lname" /><br /><br />
+        <label for="email">Email:</label><br />
+        <input type="text" id="email" name="email" /><br /><br />
+        <label for="country">Country:</label>
+        <select name="country" id="country">
+          <option value="61">Australia (+61)</option>
+          <option value="57">Colombia (+57)</option>
+          <option value="53">Cuba (+53)</option>
+          <option value="45">Denmark (+45)</option>
+          <option value="33">France (+33)</option>
+          <option value="49">Germany (+49)</option>
+          <option value="39">Italy (+39)</option>
+          <option value="81">Japan (+81)</option>
+          <option value="52">Mexico (+52)</option>
+          <option value="64">New Zealand (+64)</option>
+          <option value="44">United Kingdom (+44)</option>
+          <option value="1US">United States (+1)</option></select
+        ><br /><br />
+        <label for="mob_num">Mobile Number:</label><br />
+        <input type="text" id="mob_num" name="mob_num" /><br /><br />
+        <label for="password">Password:</label><br />
+        <input type="password" id="password" name="password" /><br /><br />
+      </form>
+      <button id="submitBtn">Sign in</button>
+      <br />
+      <a href="index.htm">Return</a>
     </div>
-</body>
+    <script src="./script.js"></script>
+  </body>
 </html>
